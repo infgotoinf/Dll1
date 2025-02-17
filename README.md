@@ -1,2 +1,2 @@
 # DLL
-Все функции DLL в LibMath.h и LibMath.cpp
+Все функции DLL в FibMath.h и FibMath.cpp в папке
